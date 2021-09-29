@@ -1,6 +1,13 @@
 # Workshop-3-Disharmonizing-spaces
 Resources for the workshop "AIR LAB workshop series #3: Disharmonizing spaces"
 
+A creative coding workshop on Processing coding and interactive sound and light spaces – a collaboration between ITU and the Rhythmic Music Conservatory.
+
+The frameworks for this workshop builds upons creating a interactive sound and light space, where peoples movements in the space will impact changes in both sound and light. 
+
+The technical components at play are; a premade software getting data from the Kinect sensor/camera, and forwards positions of people in the tracking space to the software the workshop participants are going to write. These will then send control messages to a lamp and a the musical software Ableton Live.
+
+
 ## Source codes will be updated until the beginning of the workshop
 
 ## Preperations
