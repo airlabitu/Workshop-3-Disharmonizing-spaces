@@ -20,5 +20,7 @@ Path to libraries manager: (top menu) -> sketch -> import library -> add library
 
 ### Download source codes from this repository
 
-### Background materials
+## Background materials
 What is the Kinect [link](https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&ab_channel=TheCodingTrain)
+What is Midi (Musical Instrument Digital Interface) [short read in danish](https://da.wikipedia.org/wiki/MIDI) [long read](https://en.wikipedia.org/wiki/MIDI)
+What is DMX - Light control signals
