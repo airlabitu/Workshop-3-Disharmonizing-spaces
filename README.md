@@ -1,5 +1,5 @@
 # Workshop-3-Disharmonizing-spaces
-Resources for the workshop "AIR LAB workshop series #3: Disharmonizing spaces"
+### A repository with resources for the workshop "AIR LAB workshop series #3: Disharmonizing spaces"
 
 A creative coding workshop on Processing coding and interactive sound and light spaces – a collaboration between ITU and the Rhythmic Music Conservatory.
 
