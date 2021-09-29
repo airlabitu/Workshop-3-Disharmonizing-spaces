@@ -1,4 +1,4 @@
-## Source codes will be updated until the beginning of the workshop
+## NB: Source codes will be updated until the beginning of the workshop
 
 # Workshop-3-Disharmonizing-spaces
 
