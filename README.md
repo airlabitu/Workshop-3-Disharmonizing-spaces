@@ -22,5 +22,5 @@ Path to libraries manager: (top menu) -> sketch -> import library -> add library
 
 ## Background materials
 What is the Kinect [link](https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&ab_channel=TheCodingTrain)<br>
-What is Midi (Musical Instrument Digital Interface) short read in danish [link](https://da.wikipedia.org/wiki/MIDI) long read [link](https://en.wikipedia.org/wiki/MIDI)<br>
+What is Midi (Musical Instrument Digital Interface) - short read in danish [link](https://da.wikipedia.org/wiki/MIDI) - long read [link](https://en.wikipedia.org/wiki/MIDI)<br>
 What is DMX512 - (Digital Multiplex 512) [link](https://www.learnstagelighting.com/what-is-dmx-512/)<br>
