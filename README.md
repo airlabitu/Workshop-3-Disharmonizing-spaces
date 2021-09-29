@@ -8,7 +8,7 @@ The frameworks for this workshop builds upons creating a interactive sound and l
 
 The technical components at play are; a premade software getting data from the Kinect sensor(camera), and forwards positions of people in the tracking space to the software the workshop participants are writing. These will then send control messages to a lamp and the musical software Ableton Live.
 
-Full description of the workshop is found at the Fabebook event [link](https://fb.me/e/1bkFva4xd)
+Full description of the workshop is found at the Fabebook event [link](https://fb.me/e/1bkFva4xd)<br><br>
 
 ## Preperations
 ### Install Processing IDE
