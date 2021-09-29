@@ -30,7 +30,7 @@ Path to libraries manager: (top menu) -> sketch -> import library -> add library
 - https://www.ableton.com/en/trial/
 
 ### Download the source codes from this repository
-<br><br>
+<br>
 ## Background materials
 What is Processing [link](https://processing.org/)
 What is the Kinect [link](https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&ab_channel=TheCodingTrain)<br>
