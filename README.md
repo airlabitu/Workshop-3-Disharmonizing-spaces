@@ -1,6 +1,8 @@
 # Workshop-3-Disharmonizing-spaces
 Resources for the workshop "AIR LAB workshop series #3: Disharmonizing spaces"
 
+## Source codes will be updated until the beginning of the workshop
+
 ## Preperations
 ### Download the Processing IDE (version 3.5.4) https://processing.org/download
 
@@ -18,5 +20,5 @@ Path to libraries manager: (top menu) -> sketch -> import library -> add library
 
 ### Download source codes from this repository
 
-
-## Source codes will be updated until the beginning of the workshop
+### Background materials
+What is the Kinect [link](https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&ab_channel=TheCodingTrain)
