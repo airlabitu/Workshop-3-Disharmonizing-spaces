@@ -10,7 +10,7 @@ Move the unzipped software to your applications folder - or leave it in download
 Open it and run an example from the examples menu to verity that it works<br>
 - Path to examples menu: (top menu) -> file -> examples<br>
 
-### Install the following three libraries into the processing IDE from the built-in libraries manager.
+### Install the following libraries into the processing IDE from the built-in libraries manager.
 - oscP5
 - The MidiBus
 - dmxP512
