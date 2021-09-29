@@ -5,8 +5,8 @@ Resources for the workshop "AIR LAB workshop series #3: Disharmonizing spaces"
 
 ## Preperations
 ### Install Processing IDE
-Download the Processing IDE (version 3.5.4) https://processing.org/download
-Move the unzipped software to your applications folder - or leave it in downloads (bad habit :-/)<br>
+Download the Processing IDE (version 3.5.4) https://processing.org/download<br>
+Move the unzipped software to your applications folder - or leave it in downloads ( bad habit :-/ )<br>
 Open it and run an example from the examples menu to verity that it works<br>
 - Path to examples menu: (top menu) -> file -> examples<br>
 
