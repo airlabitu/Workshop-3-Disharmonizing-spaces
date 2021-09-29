@@ -29,8 +29,8 @@ Path to libraries manager: (top menu) -> sketch -> import library -> add library
 ### Install Ableton Live (free trial) - unless you have a licensed version
 - https://www.ableton.com/en/trial/
 
-### Download the source codes from this repository<br>
-
+### Download the source codes from this repository
+<br>
 ## Background materials
 What is Processing [link](https://processing.org/)
 What is the Kinect [link](https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&ab_channel=TheCodingTrain)<br>
