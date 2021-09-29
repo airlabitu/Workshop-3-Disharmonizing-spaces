@@ -28,3 +28,4 @@ Path to libraries manager: (top menu) -> sketch -> import library -> add library
 What is the Kinect [link](https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&ab_channel=TheCodingTrain)<br>
 What is Midi (Musical Instrument Digital Interface) - short read in danish [link](https://da.wikipedia.org/wiki/MIDI) - long read [link](https://en.wikipedia.org/wiki/MIDI)<br>
 What is DMX512 - (Digital Multiplex 512) [link](https://www.learnstagelighting.com/what-is-dmx-512/)<br>
+Daniel Shifman playlist on Computer Vision and blob detection [link](https://www.youtube.com/watch?v=nCVZHROb_dE&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro&index=2&ab_channel=TheCodingTrain)<br>
