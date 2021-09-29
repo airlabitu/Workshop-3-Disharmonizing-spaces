@@ -1,4 +1,11 @@
 # Workshop-3-Disharmonizing-spaces
 Resources for the workshop "AIR LAB workshop series #3: Disharmonizing spaces"
 
+## Preperations
+- Download the Processing IDE (version 3.5.4) https://processing.org/download
+- Install the following libraries into the processing IDE from the built-in libraries manager
+-   (top menu) -> sketch -> import library -> add library
+-     oscP5
+-     The MidiBus 
+
 ## NB: WILL BE READY SOON
