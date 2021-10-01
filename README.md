@@ -54,3 +54,4 @@ IDE (code editor)
 - What is DMX512 - (Digital Multiplex 512) [link](https://www.learnstagelighting.com/what-is-dmx-512/)<br>
 - Daniel Shifman playlist on Computer Vision, blob detection and Kinect [link](https://www.youtube.com/watch?v=nCVZHROb_dE&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro&index=2&ab_channel=TheCodingTrain)<br>
 - Setting up virtual Midi ports [link](https://dialogaudio.com/modulationprocessor/guides/virtual_midi/virtual_midi_setup.php)
+- Setting up a virtual Midi network [link](https://help.ableton.com/hc/en-us/articles/209071169-Setting-up-a-virtual-MIDI-network)
