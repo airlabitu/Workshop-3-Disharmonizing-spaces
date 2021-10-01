@@ -26,8 +26,8 @@ Blob [] blobsFromKinect; // list of all incoming blobs over OSC - for securely t
 Blob [] blobs; // list of all blobs - without 
 
 
-boolean enableDMX = true; // for disabling DMX while prototyping
-String mode = "kinect"; // set to "simulate" for mouse simulation, or "kinect" for tracking data from kinect 
+boolean enableDMX = false; // for disabling DMX while prototyping
+String mode = "simulate"; // set to "simulate" for mouse simulation, or "kinect" for tracking data from kinect 
 
 // Coordinate of lamp in the tracking area
 int lampX = 320;
@@ -66,7 +66,7 @@ void setup() {
   
   MidiBus.list(); // List all available Midi devices on STDOUT. This will show each device's index and name.
   
-  myBus = new MidiBus(this, -1, "Bus 1"); // Create a new MidiBus with no input device and "Bus 1" as the output device.
+  myBus = new MidiBus(this, -1, "My Live Session"); // Create a new MidiBus with no input device and "Bus 1" as the output device.
   
   oscP5 = new OscP5(this, 6789); // listening for incoming OSC messages at port 6789
   
@@ -116,7 +116,7 @@ void draw() {
   fill(red, green, blue); // set fill color for the lamp
   ellipse(lampX, lampY, 100, 100); // draw the lamp
   
-  exampleVisualizer(); // function for visually explaining number mappings and constrains
+  //exampleVisualizer(); // function for visually explaining number mappings and constrains
   
   
     

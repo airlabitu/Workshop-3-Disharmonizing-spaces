@@ -17,7 +17,7 @@ OscP5 oscP5; // OSC object for receiving Kinect blobdata
 Blob [] blobsFromKinect; // list of all incoming blobs over OSC - for securely transporting the data to the Blobs array on next line
 Blob [] blobs; // list of all blobs - without 
 
-String mode = "kinect"; // set to "simulate" for mouse simulation, or "kinect" for tracking data from kinect 
+String mode = "simulate"; // set to "simulate" for mouse simulation, or "kinect" for tracking data from kinect 
 
 // Coordinate of lamp in the tracking area
 int lampX = 320;
@@ -35,7 +35,7 @@ void setup() {
   
   MidiBus.list(); // List all available Midi devices on STDOUT. This will show each device's index and name.
   
-  myBus = new MidiBus(this, -1, "My Live Sessionj"); // Create a new MidiBus with no input device and "Bus 1" as the output device.
+  myBus = new MidiBus(this, -1, "My Live Session"); // Create a new MidiBus with no input device and "Bus 1" as the output device.
   
   oscP5 = new OscP5(this, 6789); // listening for incoming OSC messages at port 6789
   
@@ -71,9 +71,10 @@ void draw() {
     
   // display visualize elements
   background(0);
+  noStroke();
   fill(255); // set fill color to white
   text("Mode: " + mode, 5, 15);
-  noFill();
+  fill(0,0,255); // set fill color to blue
   ellipse(blobs[0].x, blobs[0].y, 10, 10); // draw person/blob
   ellipse(lampX, lampY, 100, 100); // draw the lamp
   
