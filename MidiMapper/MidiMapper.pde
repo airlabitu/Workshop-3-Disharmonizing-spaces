@@ -25,7 +25,7 @@ void setup() {
   
   MidiBus.list(); // List all available Midi devices on STDOUT. This will show each device's index and name.
   
-  myBus = new MidiBus(this, -1, "Bus 1"); // Create a new MidiBus with no input device and "Bus 1" as the output device.
+  myBus = new MidiBus(this, -1, "My Live Sessionj"); // Create a new MidiBus with no input device and "Bus 1" as the output device.
   
 
 }
