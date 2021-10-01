@@ -1,5 +1,3 @@
-## NB: Source codes will be updated until the beginning of the workshop
-<br><br>
 # Workshop-3-Disharmonizing-spaces
 
 A creative coding workshop on Processing coding and interactive sound and light spaces – a collaboration between ITU and the Rhythmic Music Conservatory.
