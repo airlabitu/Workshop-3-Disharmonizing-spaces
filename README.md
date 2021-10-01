@@ -31,6 +31,22 @@ Path to libraries manager: (top menu) -> sketch -> import library -> add library
 
 ### Download the source codes from this repository
 <br><br>
+
+## Processing hints
+Links
+- [map()](https://processing.org/reference/map_.html)
+- [dist()](https://processing.org/reference/dist_.html)
+- [constrain()](https://processing.org/reference/constrain_.html)
+- [min()](https://processing.org/reference/min_.html)
+- [max()](https://processing.org/reference/max_.html)
+- [random](https://processing.org/reference/random_.html)
+- [noise()](https://processing.org/reference/noise_.html)
+- [noise 1D example](https://processing.org/examples/noise1d.html)
+
+IDE (code editor)
+- Inside the editor: Right-click on highlighted code and choose "find in reference" to see documentation.
+- Use the examples provided with Processing to get inspired: (top-menu) -> File -> Examples
+
 ## Background materials
 - What is Processing [link](https://processing.org/)
 - What is the Kinect [link](https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&ab_channel=TheCodingTrain)<br>
