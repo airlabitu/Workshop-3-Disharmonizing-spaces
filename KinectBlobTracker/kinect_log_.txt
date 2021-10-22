@@ -4,3 +4,20 @@
 30/9/2021:20:33:37 : ------------------
 30/9/2021:20:33:37 : Starting up sketch
 30/9/2021:20:33:39 : Starting video simulation
+1/10/2021:12:54:19 : ------------------
+1/10/2021:12:54:19 : Starting up sketch
+1/10/2021:12:54:21 : Starting video simulation
+1/10/2021:13:21:45 : ------------------
+1/10/2021:13:21:45 : Starting up sketch
+1/10/2021:13:21:47 : Starting video simulation
+1/10/2021:13:22:7 : ------------------
+1/10/2021:13:22:7 : Starting up sketch
+1/10/2021:13:22:9 : Starting video simulation
+1/10/2021:13:23:3 : ------------------
+1/10/2021:13:23:3 : Starting up sketch
+1/10/2021:13:23:5 : Starting kinect
+1/10/2021:13:23:21 : Initiating kinect depth: kinect.initDepth()
+1/10/2021:13:23:26 : ------------------
+1/10/2021:13:23:26 : Starting up sketch
+1/10/2021:13:23:28 : Starting kinect
+1/10/2021:13:23:44 : Initiating kinect depth: kinect.initDepth()
